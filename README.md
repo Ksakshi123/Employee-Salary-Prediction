@@ -9,6 +9,9 @@ This project predicts salaries based on user input features like education level
 - Streamlit (for front-end)
 - Matplotlib / Seaborn (for visualization)
 
+## 🗃️ Dataset
+https://survey.stackoverflow.co/
+
 ## 📊 Features
 - Data cleaning and preprocessing
 - Model training using Linear Regression, Random Forest, etc.
